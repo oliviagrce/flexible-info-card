@@ -29,3 +29,13 @@ body {
 section {
   padding: 1rem;
 }
+
+ul {
+  display: flex;
+}
+
+li {
+  display: flex;
+  padding: 1rem;
+  width: 16rem;
+}
