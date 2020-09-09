@@ -21,3 +21,11 @@ img {
   display: block;
   width: 100%;
 }
+
+body {
+  margin: 1rem;
+}
+
+section {
+  padding: 1rem;
+}
