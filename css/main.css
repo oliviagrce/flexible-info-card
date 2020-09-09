@@ -51,6 +51,10 @@ li {
   display: flex;
   padding: 1rem;
   width: 16rem;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  margin: 1.5rem;
 }
 
 h2 {
